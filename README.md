@@ -4,7 +4,7 @@ Evcoin
 What is Evcoin?
 ----------------
 
-Evcoin is based on Evcoin which is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Evcoin is based on Litecoin which is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
